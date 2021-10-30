@@ -1,12 +1,10 @@
-
-
-# basic options
+# Main details
 title: Benjamin Tan Zhi Wei
 author: GitHub User
 email: benjamin.tanzw@gmail.com
-description: yup.
+description: Warrior on Earth
 github_username:  benjamintzw
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 theme: jekyll-theme-hacker
