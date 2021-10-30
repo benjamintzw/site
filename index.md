@@ -10,6 +10,14 @@
 <pre><code>def TechStack(self):
   print(
         "Programming Languages: HTML, VB.NET, SQL, Python"
-        "Applications: UiPath, PowerBI, Dataiku"
+        "Software: UiPath, PowerBI, Dataiku"
+        )
+</code></pre>
+
+<pre><code>def Certifications(self):
+  print(
+        "RPA: UiPath Certified Advanced RPA Developer v1.0 (UiARD)"
+        "Data Science: Dataiku DSS L2 Advanced Design Certified"
+        "Data Analytics: SMU Data Analytics Using Advanced Power BI"
         )
 </code></pre>
