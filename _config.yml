@@ -1,1 +1,12 @@
+
+
+# basic options
+title: Benjamin Tan Zhi Wei
+author: GitHub User
+email: benjamin.tanzw@gmail.com
+description: yup.
+github_username:  benjamintzw
+
+# Build settings
+# markdown: kramdown
 theme: jekyll-theme-hacker
